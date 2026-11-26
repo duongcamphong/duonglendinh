@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/duongcamphong/duonglendinh/releases/latest/download/DuongLenDinh.exe",
-  "sha256": "78209c4b741214d16c562b93680765919c51f1efd0f2c6314b68ccf17f0cc37c",
-  "notes": ""
+    "notes":  "Phien ban 1.0.0",
+    "url":  "https://github.com/duongcamphong/duonglendinh/releases/download/v1.0.0/DuongLenDinh.exe",
+    "version":  "1.0.0",
+    "sha256":  "eeb073b0053a60c51669b221b7ac9d80d7e563e330fc0030c9968b11a0a72faa"
 }
